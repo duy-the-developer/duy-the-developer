@@ -20,7 +20,7 @@ Outside of work, I serve as a part-time instructor at Concordia Web Development 
 
 ---
 
-## Currently I am Using...
+## Currently I Am Using...
 
 <div display="flex">
     <img width="40px" alt="html5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
