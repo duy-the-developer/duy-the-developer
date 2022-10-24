@@ -28,27 +28,23 @@ Outside of work, I serve as a part-time instructor at Concordia Web Development 
     <img width="30px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
-
 <h3>Front End</h3>
 <div display="flex">
     <img width="30px" alt="tailwind css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="30px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
-
 <h3>Back End</h3>
 <div display="flex">
     <img width="30px" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img width="30px" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
-
 <h3>Hosting and Deployment</h3>
 <div display="flex">
     <img width="30px" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
     <img width="30px" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </div>
-
 <h3>Source Control and DevOps</h3>
 <div display="flex">
     <img width="30px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
