@@ -11,7 +11,7 @@ Outside of work, I serve as a part-time instructor at Concordia Web Development 
 <a href="https://www.linkedin.com/in/ngoc-duy-anh-nguyen">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="external link to Duy's LinkedIn Profile"/>
 </a>
-<a href="mailto:duy-the-developer@gmail.com">
+<a href="mailto:duythedeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="external link to Duy's LinkedIn Profile"/>
 </a>
 <a href="https://discord.gg/utsv9C8VkY">
