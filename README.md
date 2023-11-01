@@ -68,9 +68,3 @@ Outside of work, I serve as a part-time instructor at Concordia Web Development 
     <img width="30px" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
     <img width="30px" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div>
-
----
-
-## Stats For Nerds
-
-![duy-the-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=duy-the-developer&show_icons=true&theme=gruvbox)
